@@ -6,7 +6,11 @@
 
 - 🌱 I’m currently learning **Node.js**
 
+- 👀 I’m interested in full stack web development and I'm currently a student at Chas Academy in Stockholm.
+
 - 📫 How to reach me **https://www.linkedin.com/in/simon-d-528738230/**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
